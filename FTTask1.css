@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+head{
+    color: brown;  
+}
+label{
+    color: chartreuse;
+}
+
+div{
+    color: rgba(1, 0, 5, 0.5);
+}
+ label{
+     color:darkblue
+ }
+ .New{
+     color: darkblue;
+ }
+ m{
+     color: darkgoldenrod;
+ }
+ s{
+     color: darkorchid;
+ }
+ .title {
+    background-color: aquamarine;
+    border-left: 10px solid green;
+  }
+  background-color: slateblue;
+  border: none;
+}
+
